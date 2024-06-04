@@ -1,0 +1,185 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+#container{
+    width: 1100px; 
+    margin: 0px auto;
+   border: 1px solid;
+}
+
+header{
+    background-color: rgb(38, 35, 82);
+    color: aliceblue;
+    height: 50px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    line-height: 50px;
+    padding: 5px 0px 5px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul{
+list-style: none;
+}
+li{
+    display: inline;
+    justify-content: space-between;
+    padding: 5px 0px 5px 0px;
+    
+}
+
+.aaa{
+    color: white;
+    margin-right: 40px;
+}
+
+.boton{
+    background-color: blue;
+    color: aliceblue;
+    width: 55px;
+    border: none;
+    border-radius: 5px;
+    margin: 20px;}
+
+
+.videoo{
+    width: 95%;
+    height: 299px;
+    margin: 20px;
+}
+.article{
+    background-color: white;
+    height: 70px;
+    border: none;
+}
+
+#titulo{
+    font-size: xx-large;
+    color: rgb(48, 48, 114);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    margin: 20px;
+    
+
+}
+#subtitulo{
+    color: gray;
+    margin: 20px;
+    
+
+}
+
+#beneficios{
+    background-color: white;
+    height: 70px;
+    display: inline-block;
+}
+
+
+#content{
+    float: left;
+    width: 70%;
+    
+}
+
+.formm{
+    margin: 20px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+aside{
+    float: right;
+    width: 26%;
+    height: 400px;
+    background-color: rgb(156, 148, 148);
+    border-radius: 25px;
+    border: none;
+    margin: 10px;
+    
+}
+
+.texto{
+    width: 90%;
+    height: 40px;
+    margin: 15px;
+    border: none;
+}
+
+.call{
+    background-color: red;
+    margin: 15px;
+    border-radius: 5px;
+    height: 40px;
+    width: 90%;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: white;
+    outline: none;
+    border: none;
+
+}
+
+
+#container2{
+    width: 1100px; 
+    height: 700px;
+    margin: 0px auto;
+    border: 1px solid rgb(210, 205, 205);  
+}
+
+nav ul li{
+    float: left;
+    margin-left: 160px;
+    color: none;
+    
+}
+
+a{
+    color: rgb(77, 73, 73);
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img{
+    width: 60px;
+    float: left;
+    margin-left: 180px;
+}
+
+
+.comentario1{
+float: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer{
+    border: none;
+    margin: 55px;
+    height: 100px;
+
+}
+
+.DR{
+    /*text-align: center; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.imgf{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
